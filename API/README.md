@@ -1,0 +1,1 @@
+Extract and copy all data in ProductManage.zip to folder of Golang(GOROOT) in Window: C:\Program Files (x86)\Go\src
