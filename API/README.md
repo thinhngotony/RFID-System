@@ -21,7 +21,7 @@ Sao chép source code API vào thư mục /RFID_Api/master
 
 ## Tạo file service
 
-Tạo file RFID_Api_Lastest.service và chép vào thư mục /etc/systemd/system/ với nội dung như sau:
+Tạo file RFID_Api.service và chép vào thư mục /etc/systemd/system/ với nội dung như sau:
 
 [Unit]
 Description=RFID_API
@@ -39,11 +39,13 @@ WantedBy=multi-user.target
 
 Chạy các lệnh sau để khởi động dịch vụ:
 
+```
 chmod 777 /RFID_Api/main/main
 sudo systemctl stop RFID_Api_Lastest.service
 sudo systemctl start RFID_Api_Lastest.service
 sudo systemctl enable RFID_Api_Lastest.service
 sudo systemctl disable RFID_Api_Lastest.service
+```
 
 ## Kiểm tra dịch vụ
 
