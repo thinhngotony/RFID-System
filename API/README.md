@@ -47,7 +47,6 @@ Chạy các lệnh sau để khởi động dịch vụ:
 chmod 777 /RFID_Api/main/main
 sudo systemctl start RFID_Api_Lastest.service
 sudo systemctl enable RFID_Api_Lastest.service
-
 ```
 Chạy các lệnh sau để kiểm tra trạng thái dịch vụ:
 
