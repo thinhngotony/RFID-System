@@ -10,10 +10,12 @@ Nếu không có file source hãy tải file "ProductManage.zip" về từ [đâ
 
 Mở Port bằng các lệnh sau:
 
+```
 sudo ufw allow 8027
 sudo ufw reload
 firewall-cmd --add-port=8027/tcp
 firewall-cmd --permanent --add-port=8027/tcp
+```
 
 ## Sao chép source code
 
@@ -21,8 +23,9 @@ Sao chép source code API vào thư mục /RFID_Api/master
 
 ## Tạo file service
 
-Tạo file RFID_Api.service và chép vào thư mục /etc/systemd/system/ với nội dung như sau:
+Tạo file `RFID_Api.service` và chép vào thư mục /etc/systemd/system/ với nội dung như sau:
 
+```
 [Unit]
 Description=RFID_API
 
@@ -34,6 +37,7 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
+```
 
 ## Khởi động dịch vụ
 
@@ -41,15 +45,25 @@ Chạy các lệnh sau để khởi động dịch vụ:
 
 ```
 chmod 777 /RFID_Api/main/main
-sudo systemctl stop RFID_Api_Lastest.service
 sudo systemctl start RFID_Api_Lastest.service
 sudo systemctl enable RFID_Api_Lastest.service
+
+```
+Chạy các lệnh sau để kiểm tra trạng thái dịch vụ:
+
+```
+sudo systemctl status RFID_Api.service
+```
+
+Chạy các lệnh sau để dừng dịch vụ:
+
+```
+sudo systemctl stop RFID_Api_Lastest.service
 sudo systemctl disable RFID_Api_Lastest.service
 ```
 
-## Kiểm tra dịch vụ
+## Cách dùng
 
-Sử dụng câu lệnh sau để kiểm tra dịch vụ:
+Sử dụng POSTMAN:
 
-- Terminal: sudo systemctl status RFID_Api.service => Trả về running nếu thành công.
-- Postman: Dùng lệnh GET IP:8027/api/v1/xxxx.
+- Postman: Dùng lệnh POST IP:8027/api/v1/rfid_to_jan.
