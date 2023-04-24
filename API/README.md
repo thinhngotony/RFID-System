@@ -1,2 +1,2 @@
-+ Download from https://drive.google.com/drive/folders/1JFF1JeGn8VEBCpN32CzO3IF4sV7YL1Mj?usp=share_link 
-+ Extract and copy all data in ProductManage.zip to folder of Golang(GOROOT) in Window: C:\Program Files (x86)\Go\src
++ Extract and copy all data in ProductManage.zip to folder of Golang(GOROOT) in Window: C:\Program Files\Go\src
++ If don't file source, please download from https://drive.google.com/drive/folders/1JFF1JeGn8VEBCpN32CzO3IF4sV7YL1Mj?usp=share_link 

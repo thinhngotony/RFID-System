@@ -1,0 +1,13 @@
+[Unit]
+Description=RFID_API
+
+[Service]
+User=root
+WorkingDirectory=/RFID_Api/
+ExecStart=/RFID_Api/main
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+
