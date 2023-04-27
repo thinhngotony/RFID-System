@@ -31,8 +31,8 @@ Description=RFID_API
 
 [Service]
 User=root
-WorkingDirectory=/RFID_Api/master
-ExecStart=/RFID_Api/master/main
+WorkingDirectory=/RFID_Api/
+ExecStart=/RFID_Api/main
 Restart=always
 
 [Install]
@@ -67,3 +67,15 @@ sudo systemctl disable RFID_Api.service
 Sử dụng POSTMAN:
 
 - Postman: Dùng lệnh POST IP:8027/api/v1/rfid_to_jan.
+
+Sử dụng extension:
+
+- Cài đặt REST Client extension trong Visual Studio Code
+
+- Mở folder source bằng Visual Studio Code và chạy api bằng lệnh sau:
+
+```
+go run main.go
+```
+
+- Mở file client.http và ấn chữ "Send Request"

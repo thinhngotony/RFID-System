@@ -1,0 +1,11 @@
+@host = http://localhost:8027
+
+
+### RFID TO JAN 
+POST {{host}}/api/v1/rfids_to_jans HTTP/1.1
+content-type: application/json
+
+{
+    "api_key": "aip_rtsa_20220516_1",
+    "rfid": ["00DD20220703000058000546","00DD20220703000058000654","00DD20220703000058000814"]
+}

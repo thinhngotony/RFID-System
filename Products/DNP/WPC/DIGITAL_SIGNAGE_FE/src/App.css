@@ -1,0 +1,288 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow: hidden;
+}
+
+.xxxx-large{
+  font-size: 7vw;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.xxx-large{
+  font-size: 2.4vh;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.xxx-large-normal{
+  font-size: 2.4vh;
+  white-space: nowrap;
+}
+
+.xx-large-normal{
+  font-size: 2vh;
+}
+
+.isHidden{
+  display: none;
+}
+
+.top-1{
+  color: rgb(250, 226, 108);
+  font-size: 2.5vh;
+}
+
+.top-3{
+  color: rgb(211, 132, 115);
+}
+
+.isEmpty{
+  padding-top: 50px;
+}
+
+.inner-container{
+  width:90%
+}
+
+.shelf{
+  padding: 0;
+  margin: 0;
+  padding-bottom: 5vh;
+  height: 100%;
+  width: 90%;
+}
+
+.smart-table{
+  padding: 0;
+  margin: 0;
+  padding-bottom: 0vh;
+  height: 100%;
+  width: 90%;
+}
+
+.textMedium{
+  font-size: 1.5vh;
+  padding-top: 0.5vh;
+}
+
+.textSmall{
+  font-size: 0.95vh;
+  padding-top: 0.5vh;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.barcode{
+  display: flex;
+  margin-top: 0.2vh;
+  justify-content: center;
+  margin-left: 13vh;
+}
+
+.carousel-caption {
+  color: #fff;
+  height: 90%;
+  padding-top: 0;
+  width: 100%;
+  left: 0;
+  top: 1.25rem;
+}
+
+#cf3 {
+  position:relative;
+  min-height: 100vh;
+}
+
+@keyframes FadeInOut{
+  0%{
+      background-image: url('../public/BG/BG01.png');
+  }
+  10%{
+      background-image: url('../public/BG/BG02.png');
+  }
+  20%{
+      background-image: url('../public/BG/BG03.png');
+  }
+  30%{
+      background-image: url('../public/BG/BG04.png');
+  }
+  40%{
+      background-image: url('../public/BG/BG05.png');
+  }
+  50%{
+      background-image: url('../public/BG/BG06.png');
+  }
+  60%{
+      background-image: url('../public/BG/BG07.png');
+  }
+  70%{
+      background-image: url('../public/BG/BG08.png');
+  }
+  80%{
+      background-image: url('../public/BG/BG09.png');
+  }
+  90%{
+      background-image: url('../public/BG/BG10.png');
+  }
+}
+
+#cf4{
+  min-height: 100vh;
+  float: left;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  animation: FadeInOut 4s infinite; 
+  animation: FadeInOut 4s infinite;
+  animation-timing-function: steps(1, end);
+  animation-timing-function: steps(1, end);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.se-pre-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: center no-repeat #fff;
+}
+.no-js #loader {
+  display: none;
+}
+.js #loader {
+  display: block;
+  position: absolute;
+  left: 100px;
+  top: 0;
+}
+.se-pre-con {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+}
+.se-pre-con p{
+  width: 10vh;
+}
+.se-pre-con p:after {
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: bottom;
+  -webkit-animation: ellipsis steps(4,end) 900ms infinite;      
+  animation: ellipsis steps(4,end) 900ms infinite;
+  content: "\2026"; /* ascii code for the ellipsis character */
+  width: 0px;
+}
+
+@keyframes ellipsis {
+  to {
+    width: 3vh;    
+  }
+}
+
+@-webkit-keyframes ellipsis {
+  to {
+    width: 3vh;    
+  }
+}
+
+#myVideo, #waitingVideo {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.waiting-text-div .title{
+  font-size: 3vh; 
+  font-weight: bold; 
+  text-align: center;
+}
+
+.waiting-text-div .body{
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  padding: 0 8vw;
+  padding-top: 10vh;
+  transform: translate(0%, -50%);
+}
+
+.waiting-text-div .left{
+  text-align: left;
+}
+
+.waiting-text-div .center{
+  text-align: center;
+}
+
+.waiting-text-div .bold{
+  font-weight: bold;
+}
+
+.border-white{
+  border: 2px solid rgb(255, 255, 255);
+  text-align: left;
+  margin: 2%;
+}
+
+.table-ellipsis td{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 30vw;
+}
+
+.overflow-hidden-scroll{
+  overflow-y: scroll;
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.overflow-hidden-scroll::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome*/
+}

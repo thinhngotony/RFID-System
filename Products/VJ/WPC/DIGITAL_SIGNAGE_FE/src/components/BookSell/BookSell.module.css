@@ -1,0 +1,14 @@
+.col {
+    position: relative;
+    font-weight: bold;
+}
+
+svg {
+    height: 3vh;
+    position: absolute;
+    bottom: 3vh;
+}
+
+.smallImg{
+    width: 35px;
+}

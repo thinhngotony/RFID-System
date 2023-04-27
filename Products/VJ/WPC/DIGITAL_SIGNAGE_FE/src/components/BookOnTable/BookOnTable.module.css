@@ -1,0 +1,27 @@
+.book {
+    height: 8vh;
+}
+
+.circle{
+    min-width:2vh;
+    min-height:2vh;
+    width:2vh;
+    height:2vh;
+    max-width:2vh;
+    max-height:2vh;
+    padding: 0;
+    background-color: white;
+    border-radius: 50%;
+    color: black;
+}
+
+.noImageText{
+    position: absolute;
+    color: grey;
+    bottom: 0vh;
+    width: 5.6vh;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}

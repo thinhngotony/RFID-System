@@ -1,0 +1,3 @@
+--KeyCode;Command1,Data1;Command2,Data2...
+99;PAY_GENKIN,
+118;TOROKU_GEN,

@@ -1,0 +1,12 @@
+[Unit]
+Description=DigitalSignageGCEApi
+
+[Service]
+User=root
+WorkingDirectory=/WPC/DIGITAL_SIGNAGE
+ExecStart=/WPC/DIGITAL_SIGNAGE/DigitalSignageGCEApi.exe
+ExecStop=/bin/kill -HUP $MAINPID
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

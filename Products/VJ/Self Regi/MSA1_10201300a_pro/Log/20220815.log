@@ -1,0 +1,374 @@
+﻿2022-08-15 10:42:43,151 | INFO | LOG
+
+2022-08-15 10:43:04,959 | INFO | Start call API
+
+2022-08-15 10:43:04,960 | INFO | RFID code: 00DD20220702000058000114
+
+2022-08-15 10:43:04,960 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:43:04,960 | INFO | Try start
+
+2022-08-15 10:43:05,176 | INFO | Try end
+
+2022-08-15 10:43:05,176 | INFO | {"rfid":"00DD20220702000058000114","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:05,176 | INFO | Finally
+
+2022-08-15 10:43:05,176 | INFO | POST API: {"rfid":"00DD20220702000058000114","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:05,290 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784198647476","jancode_2":"1928797017003","rfid":"00DD20220702000058000114"},"message":"変換に成功しました。"}
+
+2022-08-15 10:43:05,441 | INFO | Start call API
+
+2022-08-15 10:43:05,442 | INFO | RFID code: 00DD20220702000058000117
+
+2022-08-15 10:43:05,442 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:43:05,442 | INFO | Try start
+
+2022-08-15 10:43:05,442 | INFO | Try end
+
+2022-08-15 10:43:05,443 | INFO | {"rfid":"00DD20220702000058000117","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:05,443 | INFO | Finally
+
+2022-08-15 10:43:05,443 | INFO | POST API: {"rfid":"00DD20220702000058000117","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:05,458 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784564018428","jancode_2":"1928771012000","rfid":"00DD20220702000058000117"},"message":"変換に成功しました。"}
+
+2022-08-15 10:43:51,497 | INFO | Start call API
+
+2022-08-15 10:43:51,498 | INFO | RFID code: 00DD20220702000058000121
+
+2022-08-15 10:43:51,509 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:43:51,510 | INFO | Try start
+
+2022-08-15 10:43:51,510 | INFO | Try end
+
+2022-08-15 10:43:51,510 | INFO | {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:51,511 | INFO | Finally
+
+2022-08-15 10:43:51,511 | INFO | POST API: {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:51,569 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784893096913","jancode_2":"1928771014004","rfid":"00DD20220702000058000121"},"message":"変換に成功しました。"}
+
+2022-08-15 10:43:51,570 | INFO | Start call API
+
+2022-08-15 10:43:51,570 | INFO | RFID code: 00DD20220702000058000120
+
+2022-08-15 10:43:51,570 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:43:51,571 | INFO | Try start
+
+2022-08-15 10:43:51,571 | INFO | Try end
+
+2022-08-15 10:43:51,571 | INFO | {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:51,571 | INFO | Finally
+
+2022-08-15 10:43:51,571 | INFO | POST API: {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:43:51,583 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784776407751","jancode_2":"1928798015008","rfid":"00DD20220702000058000120"},"message":"変換に成功しました。"}
+
+2022-08-15 10:44:17,354 | INFO | Start call API
+
+2022-08-15 10:44:17,355 | INFO | RFID code: 00DD20220702000058000120
+
+2022-08-15 10:44:17,355 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:44:17,355 | INFO | Try start
+
+2022-08-15 10:44:17,356 | INFO | Try end
+
+2022-08-15 10:44:17,356 | INFO | {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:44:17,356 | INFO | Finally
+
+2022-08-15 10:44:17,356 | INFO | POST API: {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:44:17,376 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784776407751","jancode_2":"1928798015008","rfid":"00DD20220702000058000120"},"message":"変換に成功しました。"}
+
+2022-08-15 10:44:17,377 | INFO | Start call API
+
+2022-08-15 10:44:17,377 | INFO | RFID code: 00DD20220702000058000121
+
+2022-08-15 10:44:17,378 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:44:17,378 | INFO | Try start
+
+2022-08-15 10:44:17,378 | INFO | Try end
+
+2022-08-15 10:44:17,378 | INFO | {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:44:17,378 | INFO | Finally
+
+2022-08-15 10:44:17,379 | INFO | POST API: {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:44:17,391 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784893096913","jancode_2":"1928771014004","rfid":"00DD20220702000058000121"},"message":"変換に成功しました。"}
+
+2022-08-15 10:49:11,540 | INFO | LOG
+
+2022-08-15 10:49:12,430 | INFO | Start call API
+
+2022-08-15 10:49:12,431 | INFO | RFID code: 00DD20220702000058000120
+
+2022-08-15 10:49:12,431 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:49:12,431 | INFO | Try start
+
+2022-08-15 10:49:12,651 | INFO | Try end
+
+2022-08-15 10:49:12,652 | INFO | {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:49:12,652 | INFO | Finally
+
+2022-08-15 10:49:12,652 | INFO | POST API: {"rfid":"00DD20220702000058000120","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:49:12,774 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784776407751","jancode_2":"1928798015008","rfid":"00DD20220702000058000120"},"message":"変換に成功しました。"}
+
+2022-08-15 10:49:12,926 | INFO | Start call API
+
+2022-08-15 10:49:12,926 | INFO | RFID code: 00DD20220702000058000121
+
+2022-08-15 10:49:12,927 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 10:49:12,927 | INFO | Try start
+
+2022-08-15 10:49:12,927 | INFO | Try end
+
+2022-08-15 10:49:12,927 | INFO | {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:49:12,927 | INFO | Finally
+
+2022-08-15 10:49:12,927 | INFO | POST API: {"rfid":"00DD20220702000058000121","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 10:49:12,943 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784893096913","jancode_2":"1928771014004","rfid":"00DD20220702000058000121"},"message":"変換に成功しました。"}
+
+2022-08-15 11:06:50,117 | INFO | LOG
+
+2022-08-15 11:06:55,679 | INFO | Start call API
+
+2022-08-15 11:06:55,679 | INFO | RFID code: 00DD20220702000058000119
+
+2022-08-15 11:06:55,679 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 11:06:55,680 | INFO | Try start
+
+2022-08-15 11:06:55,898 | INFO | Try end
+
+2022-08-15 11:06:55,899 | INFO | {"rfid":"00DD20220702000058000119","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:55,899 | INFO | Finally
+
+2022-08-15 11:06:55,899 | INFO | POST API: {"rfid":"00DD20220702000058000119","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,021 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784769022220","jancode_2":"1928798015008","rfid":"00DD20220702000058000119"},"message":"変換に成功しました。"}
+
+2022-08-15 11:06:56,177 | INFO | Start call API
+
+2022-08-15 11:06:56,177 | INFO | RFID code: 00DD20220702000058000117
+
+2022-08-15 11:06:56,177 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 11:06:56,178 | INFO | Try start
+
+2022-08-15 11:06:56,178 | INFO | Try end
+
+2022-08-15 11:06:56,178 | INFO | {"rfid":"00DD20220702000058000117","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,178 | INFO | Finally
+
+2022-08-15 11:06:56,178 | INFO | POST API: {"rfid":"00DD20220702000058000117","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,197 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784564018428","jancode_2":"1928771012000","rfid":"00DD20220702000058000117"},"message":"変換に成功しました。"}
+
+2022-08-15 11:06:56,197 | INFO | Start call API
+
+2022-08-15 11:06:56,198 | INFO | RFID code: 00DD20220702000058000114
+
+2022-08-15 11:06:56,198 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 11:06:56,198 | INFO | Try start
+
+2022-08-15 11:06:56,198 | INFO | Try end
+
+2022-08-15 11:06:56,198 | INFO | {"rfid":"00DD20220702000058000114","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,198 | INFO | Finally
+
+2022-08-15 11:06:56,199 | INFO | POST API: {"rfid":"00DD20220702000058000114","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,215 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784198647476","jancode_2":"1928797017003","rfid":"00DD20220702000058000114"},"message":"変換に成功しました。"}
+
+2022-08-15 11:06:56,414 | INFO | Start call API
+
+2022-08-15 11:06:56,414 | INFO | RFID code: 00DD20220702000058000115
+
+2022-08-15 11:06:56,415 | INFO | API key: aip_rtsa_20220516_1
+
+2022-08-15 11:06:56,415 | INFO | Try start
+
+2022-08-15 11:06:56,415 | INFO | Try end
+
+2022-08-15 11:06:56,415 | INFO | {"rfid":"00DD20220702000058000115","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,416 | INFO | Finally
+
+2022-08-15 11:06:56,416 | INFO | POST API: {"rfid":"00DD20220702000058000115","api_key":"aip_rtsa_20220516_1"}
+
+2022-08-15 11:06:56,435 | INFO | Result content: {"code":"00","data":{"jancode_1":"9784896379693","jancode_2":"1928793015508","rfid":"00DD20220702000058000115"},"message":"変換に成功しました。"}
+
+2022-08-15 14:40:09,920 | INFO | Is use checkpoint gate: 0
+
+2022-08-15 14:42:47,364 | INFO | Is use checkpoint gate: 0
+
+2022-08-15 14:46:26,600 | INFO | Is use checkpoint gate: 0
+
+2022-08-15 14:47:45,294 | INFO | Is use checkpoint gate: 0
+
+2022-08-15 14:50:59,641 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:50:59,914 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:50:59,917 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:50:59,917 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:50:59,918 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:51:06,802 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:51:06,945 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:51:06,947 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:51:06,947 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:51:06,947 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:51:27,411 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:51:27,559 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:51:27,561 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:51:27,562 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:51:27,562 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:54:25,205 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:54:25,392 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:54:25,395 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:54:25,395 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:54:25,395 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:54:34,722 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:54:34,760 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:54:34,760 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:54:34,760 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:54:34,761 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:54:34,781 | INFO | GET TOKEN API: Result Content: {"timestamp":"2022-08-15T05:54:21.382+0000","status":401,"error":"Unauthorized","message":"Error -> Unauthorized","path":"/auth/signin"}
+
+2022-08-15 14:54:50,503 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:54:50,524 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:54:50,524 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:54:50,524 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:54:50,524 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:54:50,547 | INFO | GET TOKEN API: Result Content: {"timestamp":"2022-08-15T05:54:37.145+0000","status":401,"error":"Unauthorized","message":"Error -> Unauthorized","path":"/auth/signin"}
+
+2022-08-15 14:58:43,910 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 14:58:44,095 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 14:58:44,097 | INFO | Start GET TOKEN API.
+
+2022-08-15 14:58:44,098 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 14:58:44,098 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 14:58:44,386 | INFO | GET TOKEN API: Result Content: {"accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQzMTEwLCJleHAiOjE2NjA2Mjk1MTB9.RzTdJW_Q8l0Udny7uBsFZCcDsRquHQ-gwTLWpgbDud7Z5MbOHaA37IMacmlKIRi-krJSMnuQv4B0tNW65omNcw","tokenType":"Bearer"}
+
+2022-08-15 14:58:44,387 | INFO | GET TOKEN API: Token: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQzMTEwLCJleHAiOjE2NjA2Mjk1MTB9.RzTdJW_Q8l0Udny7uBsFZCcDsRquHQ-gwTLWpgbDud7Z5MbOHaA37IMacmlKIRi-krJSMnuQv4B0tNW65omNcw
+
+2022-08-15 16:11:35,797 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 16:11:35,993 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 16:11:35,995 | INFO | Start GET TOKEN API.
+
+2022-08-15 16:11:35,996 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:11:35,996 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 16:11:36,296 | INFO | GET TOKEN API: Result Content: {"accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ3NDgyLCJleHAiOjE2NjA2MzM4ODJ9.rS9RZ8rTe1udZjoHWvaJhSNkUr_BJkMsm_OHR8QP3IU_Z-n3sGBhVPhix2IvdTHSUQSY-Ld6KRUmyXSTXE9OxA","tokenType":"Bearer"}
+
+2022-08-15 16:11:36,296 | INFO | GET TOKEN API: Token: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ3NDgyLCJleHAiOjE2NjA2MzM4ODJ9.rS9RZ8rTe1udZjoHWvaJhSNkUr_BJkMsm_OHR8QP3IU_Z-n3sGBhVPhix2IvdTHSUQSY-Ld6KRUmyXSTXE9OxA
+
+2022-08-15 16:14:11,814 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 16:14:12,011 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 16:14:12,014 | INFO | Start GET TOKEN API.
+
+2022-08-15 16:14:12,014 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:14:12,014 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 16:14:12,331 | INFO | GET TOKEN API: Result Content: {"accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ3NjM4LCJleHAiOjE2NjA2MzQwMzh9.ehrtXLpxWjq5d4v2RWfAvL0qnPySfY4dLxt9iSuYnSec2yzUnVuG3zSCIDcYxAcVIQoNMq5jOEoBzwU_uXC0yw","tokenType":"Bearer"}
+
+2022-08-15 16:14:12,333 | INFO | GET TOKEN API: Token: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ3NjM4LCJleHAiOjE2NjA2MzQwMzh9.ehrtXLpxWjq5d4v2RWfAvL0qnPySfY4dLxt9iSuYnSec2yzUnVuG3zSCIDcYxAcVIQoNMq5jOEoBzwU_uXC0yw
+
+2022-08-15 16:14:20,266 | INFO | Start UNLOAD GATE API.
+
+2022-08-15 16:14:20,266 | INFO | UNLOAD GATE API: IP Gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:20:55,321 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 16:20:55,504 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 16:20:55,507 | INFO | Start GET TOKEN API.
+
+2022-08-15 16:20:55,507 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:20:55,507 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 16:20:55,798 | INFO | GET TOKEN API: Result Content: {"accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ4MDQyLCJleHAiOjE2NjA2MzQ0NDJ9.xHjLjFqIY9IVxrRaS9_jKGMhpM6tDn5GfnC5S-sPB5KmejZn8VFoU26I-TYsUFlNuJfu9sV6G6AxhJAZsJBlnQ","tokenType":"Bearer"}
+
+2022-08-15 16:20:55,799 | INFO | GET TOKEN API: Token: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ4MDQyLCJleHAiOjE2NjA2MzQ0NDJ9.xHjLjFqIY9IVxrRaS9_jKGMhpM6tDn5GfnC5S-sPB5KmejZn8VFoU26I-TYsUFlNuJfu9sV6G6AxhJAZsJBlnQ
+
+2022-08-15 16:21:46,544 | INFO | Start GET API GATE SETTING.
+
+2022-08-15 16:21:46,745 | INFO | Is use checkpoint gate: 1
+
+2022-08-15 16:21:46,748 | INFO | Start GET TOKEN API.
+
+2022-08-15 16:21:46,748 | INFO | GET TOKEN API: Uri gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:21:46,748 | INFO | GET TOKEN API: Username: checkpoint - Password: checkpoint
+
+2022-08-15 16:21:47,046 | INFO | GET TOKEN API: Result Content: {"accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ4MDkzLCJleHAiOjE2NjA2MzQ0OTN9.-vkdT6LizUfNOQ9rPbGaeDC8zAhDAHv3BqPO6BimeIgkjyqCzobRsZhwXKP5u0uc0O9S76r-wnUG2Fs7Z62gQg","tokenType":"Bearer"}
+
+2022-08-15 16:21:47,047 | INFO | GET TOKEN API: Token: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjaGVja3BvaW50IiwiaWF0IjoxNjYwNTQ4MDkzLCJleHAiOjE2NjA2MzQ0OTN9.-vkdT6LizUfNOQ9rPbGaeDC8zAhDAHv3BqPO6BimeIgkjyqCzobRsZhwXKP5u0uc0O9S76r-wnUG2Fs7Z62gQg
+
+2022-08-15 16:21:55,264 | INFO | Start UNLOAD GATE API.
+
+2022-08-15 16:21:55,264 | INFO | UNLOAD GATE API: IP Gate: http://192.168.127.2:8080/api/
+
+2022-08-15 16:21:55,265 | INFO | UNLOAD GATE API: Num of RFIDS: 0
+

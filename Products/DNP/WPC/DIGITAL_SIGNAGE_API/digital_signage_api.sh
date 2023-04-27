@@ -1,0 +1,4 @@
+#!/bin/bash
+#EDIT APP ROOT PATH
+cd /WPC/DIGITAL_SIGNAGE_API
+npm start

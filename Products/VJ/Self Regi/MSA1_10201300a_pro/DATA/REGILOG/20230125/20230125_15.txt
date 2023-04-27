@@ -1,0 +1,2 @@
+2023/01/25 15:06:49	CMD APPOPEN , T , SHELF_SETUP\01\Shelf_Register.exe
+2023/01/25 15:13:34	CMD APPOPEN , T , RegisMaster/SelfRegi_V2.exe

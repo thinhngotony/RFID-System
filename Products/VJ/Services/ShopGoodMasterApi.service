@@ -1,0 +1,13 @@
+[Unit]
+Description=DigitalSignageGCEApi
+
+[Service]
+User=root
+WorkingDirectory=/WPC/API
+ExecStart=/WPC/API/ShopGoodMasterApi.exe
+ExecStop=/bin/kill -HUP $MAINPID
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
