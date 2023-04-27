@@ -1,0 +1,17 @@
+package utils
+
+const ADDRESS = "server.cfg"
+
+//Define error code
+const (
+	SUCCESSFULLY_CODE    = "00"
+	INVALID_API_KEY_CODE = "01"
+	DATA_NOT_EXIST_CODE  = "02"
+	INVALID_FORMAT_CODE  = "03"
+	MISSING_DATA_CODE    = "04"
+	DATA_EXISTED_CODE    = "05"
+	UNKNOWN_ERROR_CODE   = "99"
+)
+
+const TIME_FORMAT = "2006-01-02 15:04:05.000"
+const DATE_FORTMAT = "20060102"
